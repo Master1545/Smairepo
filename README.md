@@ -21,4 +21,4 @@ Bu repo, **Akıllı Tahta** uygulamasının yapay zeka bileşenlerini içermekte
 - 🧪 **Test üretimi** — konudan otomatik çoktan seçmeli sorular
 - 🐙 **GitHub aktarma** — oturumları ve dosyaları GitHub'a gönder
 
-_Aktarılma tarihi: 26.03.2026 18:46:27_
+_Aktarılma tarihi: 26.03.2026 18:46:50_
